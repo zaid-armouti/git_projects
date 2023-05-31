@@ -1,4 +1,4 @@
-First attempt for a git file using visila studio code.
+First attempt for a git file using visiual studio code.
 
 This line was added after the scond commit. it will be commit in the next few minutes ater adding few more lines.
 I am Zaid Armouti and i am still learning to use git and github. I am facing a problem using my machines terminal, 
